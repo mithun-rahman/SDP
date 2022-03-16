@@ -13,5 +13,5 @@ Project Desciption: This project is integration of two part. One is the judging 
 
 The judge/host can create new users before a contest. He can see the current standings, status and can also terminate the contest anytime he want.
 
-Project Demo Link: https://youtu.be/V2yEvz_b1bw
+
 
